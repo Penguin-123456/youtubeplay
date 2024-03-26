@@ -6,6 +6,7 @@ youtubeの再生回数を調べられるcolaboratoryのプログラム
 3.   ビデオをYouTubeから取得し、右のvideo_idに入力します。
 4.   Ctrl + Enterまたは▶を押します。
 5.   すると下に出てきます。
+
 ## **YouTubeAPIの取得方法**
 1.  [Google Cloud](https://cloud.google.com)を開きます。
 2.  コンソールを押します。
